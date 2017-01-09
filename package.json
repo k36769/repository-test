@@ -1,0 +1,22 @@
+{
+  "name": "repository-test",
+  "version": "1.0.0",
+  "description": "test for repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k36769/repository-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k36769/repository-test/issues"
+  },
+  "homepage": "https://github.com/k36769/repository-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
